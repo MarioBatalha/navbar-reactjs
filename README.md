@@ -9,7 +9,7 @@ Navbar simple app created to understand how  ReactJS  useRef hook works.
 
 
 <h1 align="center">
-  <img alt="Sapar delivery" height=70%" width="100%" title="Template" src="./src/asset/>img/navbar.png" />
+  <img alt="navbar" height=70%" width="100%" title="Template" src="src/asset/img/navbar.png" />
 </h1> 
 
 ## Summary
